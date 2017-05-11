@@ -1,47 +1,32 @@
 #EXTM3U
-#EXTINF:-1,CNT
-http://148.255.153.153:8081/play/a00g
-#EXTINF:-1,ANT21
-http://148.255.153.153:8081/play/a009
-#EXTINF:-1,Canal del sol
-http://148.255.153.153:8081/play/a00j
-#EXTINF:-1,TRA             
-http://148.255.153.153:8081/play/a00d
-#EXTINF:-1,Comunion TV 
-http://148.255.153.153:8081/play/a00e
-#EXTINF:-1,SUPERCANAL
-http://148.255.153.153:8081/play/a00a
-#EXTINF:-1,Televida
-http://148.255.153.153:8081/play/a00n
-#EXTINF:-1,CINEVISION      
-http://148.255.153.153:8081/play/a00c
-#EXTINF:-1,Cdnsportsmax
-http://148.255.153.153:8081/play/a00p
-#EXTINF:-1,CDN             
-http://148.255.153.153:8081/play/a00b
-#EXTINF:-1,RT Esp USA HD
-http://148.255.153.153:8081/play/a004
-#EXTINF:-1,CCTV
-http://148.255.153.153:8081/play/a005
-#EXTINF:-1,BAJO TECHO
-http://148.255.153.153:8081/play/a00f
-#EXTINF:-1,Antena Latina
-http://148.255.153.153:8081/play/a00m
-#EXTINF:-1,SDTV
-http://148.255.153.153:8081/play/a00l
-#EXTINF:-1,DW Deutsch Plus
-http://148.255.153.153:8081/play/a00t
-#EXTINF:-1,EWTN Spanish International
-http://148.255.153.153:8081/play/a002
-#EXTINF:-1,CERTV
-http://148.255.153.153:8081/play/a00r
-#EXTINF:-1,Tni
-http://148.255.153.153:8081/play/a00o
-#EXTINF:-1,DW Espanol
-http://148.255.153.153:8081/play/a00s
-#EXTINF:-1,TELEIMPACTO     
-http://148.255.153.153:8081/play/a003
-#EXTINF:-1,France 24 French
-http://148.255.153.153:8081/play/a007
-#EXTINF:-1,Telecanal 16
-http://148.255.153.153:8081/play/a00k
+#EXTINF:-PREBA TALES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
+
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+
